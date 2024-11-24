@@ -38,8 +38,8 @@ A robust Employee Management Web Application built with a MERN stack (MongoDB, E
 ![Login](images/login.png)
 
 ### 4. **Add New Employee**
-![Add Employee](![Uploading Screenshot 2024-11-24 at 11.28.08 PM.png…]()
-)
+![Add Employee](https://drive.google.com/file/d/1VignsJcWYc0ODSyWxUDXcf3evqu_I3BZ/view?usp=drive_link)
+
 
 ---
 
@@ -110,4 +110,4 @@ This project is licensed under the MIT License.
 ## Contact
 
 - **GitHub**: [AK261102](https://github.com/AK261102)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [your-email@example.com](ak503005@gmail.com)
