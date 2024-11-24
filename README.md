@@ -38,7 +38,8 @@ A robust Employee Management Web Application built with a MERN stack (MongoDB, E
 ![Login](images/login.png)
 
 ### 4. **Add New Employee**
-![Add Employee](images/add_employee.png)
+![Add Employee](![Uploading Screenshot 2024-11-24 at 11.28.08 PM.png…]()
+)
 
 ---
 
