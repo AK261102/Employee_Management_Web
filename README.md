@@ -26,19 +26,9 @@ A robust Employee Management Web Application built with a MERN stack (MongoDB, E
 
 ---
 
-## Screenshots
+## Output
 
-### 1. **Dashboard View**
-![Dashboard](images/dashboard.png)
-
-### 2. **Employee Profile**
-![Employee Profile](images/employee_profile.png)
-
-### 3. **Login Page**
-![Login](images/login.png)
-
-### 4. **Add New Employee**
-![Add Employee](https://drive.google.com/file/d/1VignsJcWYc0ODSyWxUDXcf3evqu_I3BZ/view?usp=drive_link)
+-> Link : https://drive.google.com/file/d/1z9ROLNzIvLFyqJ8LL814ZcCHgL1mn_BT/view?usp=sharing
 
 
 ---
